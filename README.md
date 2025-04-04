@@ -3,6 +3,9 @@
 
 •git clone https://github.com/jottap-termux/Wolf-v6
 
+pkg install python-pip
+
+° pip install requests
 
 •cd Wolf-v6
 
